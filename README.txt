@@ -17,7 +17,3 @@ This project uses transfer learning (MobileNetV2) to classify chest X-rays as no
 - scikit-learn
 - matplotlib
 - PIL
-
-## Results
-- Validation accuracy ~96%
-- Test accuracy ~86%
